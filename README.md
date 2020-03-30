@@ -1,6 +1,6 @@
 # AVR_ATmega32-safety_box
 
-•The system can save and change the password for a safe box (Using eeprom) and locks the user if the password is incorrect 3 times and use the alarm system(using buzzer and leds), control servo and motor and show time.
+•The system saves and changes the password for a safe box (Using eeprom) and locks the user if the password is incorrect 3 times and uses the alarm system(using buzzer and leds), controls servo and motor and shows time.
 
 •Designed using AVR ATmega32 and Embedded C programming language.
 
