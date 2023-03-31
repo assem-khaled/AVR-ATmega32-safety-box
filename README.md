@@ -1,4 +1,4 @@
-# Safety Box for AVR ATmega32
+# Safety Box System with AVR ATmega32
 
 ### The system simulates a safty box and performs 4 main functions:
 - Saves and changes the password *(saved in eeprom)* for the user using Keypad.
